@@ -1,0 +1,23 @@
+atliq-hospitality-analysis/
+│
+├── data/
+│   ├── dim_date.csv
+│   ├── dim_hotels.csv
+│   ├── dim_rooms.csv
+│   ├── fact_bookings.csv
+│   ├── fact_aggregated_bookings.csv
+│   └── new_data_august.csv
+│
+├── notebooks/
+│   └── hospitality_analysis.ipynb
+│
+├── visuals/
+│   ├── occupancy_by_room.png
+│   ├── revenue_by_city.png
+│   ├── monthly_revenue_trend.png
+│   └── booking_platform_distribution.png
+│
+├── insights/
+│   └── Hospitality_Analysis.pdf
+│
+└── README.md
