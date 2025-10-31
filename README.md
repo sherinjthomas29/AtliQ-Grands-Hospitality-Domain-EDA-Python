@@ -22,6 +22,7 @@ Analyze booking data from official website and third-party platforms to identify
 --> Merged multiple datasets (bookings, hotels, rooms, dates) for holistic analysis
 
 **Result**
+
 Generated actionable insights revealing:
 
 --> Occupancy patterns: Presidential rooms highest at 59.30%, Standard lowest at 58.22%
