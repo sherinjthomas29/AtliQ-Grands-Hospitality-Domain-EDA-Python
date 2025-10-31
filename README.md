@@ -1,5 +1,7 @@
 # AtliQ Grands - Hospitality Revenue Analysis
 
+💻 [Report](https://github.com/sherinjthomas29/AtliQ-Grands-Hospitality-Domain-EDA-Python/blob/main/Hospitality_Analysis.pdf)
+
 ## **📊 Project Overview**
 Python-based data analytics project analyzing booking patterns and revenue trends for AtliQ Grands, a hotel chain operating across multiple Indian cities with brands including AtliQ Seasons, AtliQ Exotica, AtliQ Bay, and AtliQ Palace.
 ________________________________________
