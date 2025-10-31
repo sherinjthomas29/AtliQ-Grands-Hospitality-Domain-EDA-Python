@@ -7,6 +7,7 @@ ________________________________________
 ## **🎯 Project Description**
 
 **Situation**
+
 AtliQ Grands experienced declining revenue and market share in the competitive hospitality sector, lacking data-driven insights to understand booking patterns and optimize performance across properties and channels.
 
 **Task**
